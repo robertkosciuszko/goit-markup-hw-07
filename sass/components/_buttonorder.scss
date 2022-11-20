@@ -1,0 +1,17 @@
+.order {
+    background-color: var(--main-blue);
+    color: var(--main-white);
+    font-family: inherit;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 10px 41px;
+    margin-top: 40px;
+
+&:active {
+    color: #2196F3;
+}
+}
